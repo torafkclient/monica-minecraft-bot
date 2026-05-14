@@ -1,0 +1,12 @@
+{
+  "maintenance": {
+    "status": false,
+    "reason": "",
+    "startTime": null
+  },
+  "announcements": {
+    "discord": [],
+    "minecraft": []
+  },
+  "logs": []
+}

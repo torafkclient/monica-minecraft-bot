@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-discord-bot",
+  "version": "1.0.0",
+  "description": "LB.Dev Minecraft Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "rcon-client": "^4.2.3",
+    "moment": "^2.29.4"
+  }
+}
